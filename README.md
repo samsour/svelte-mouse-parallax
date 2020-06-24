@@ -2,6 +2,10 @@
 
 This is a svelte example for a cursor parallax effect based on [this tutorial](https://medium.com/@PatrykZabielski/how-to-make-multi-layered-parallax-illustration-with-css-javascript-2b56883c3f27).
 
+[Live example](https://svelte-mouse-parallax.netlify.app)
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e4a0ead3-475a-4366-858b-e73c1026380e/deploy-status)](https://app.netlify.com/sites/svelte-mouse-parallax/deploys)
+
 ## Get started
 
 Install the dependencies...
